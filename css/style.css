@@ -146,6 +146,10 @@ h1, h2, h3, h4, h5, h6, figure {
     max-width: 100%;
   }
 }
+#footer .footer-img {
+  position: relative;
+  max-width: 25%;
+}
 
 #main {
   margin-top: 14em;
@@ -353,7 +357,7 @@ h1, h2, h3, h4, h5, h6, figure {
 }
 
 #footer {
-  padding: 7em 0;
+  padding: 2em 0;
 }
 #footer .fh5co-social {
   margin: 0;
