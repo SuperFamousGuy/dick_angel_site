@@ -1,0 +1,15 @@
+{
+    "name": "Dick, angel",
+    "short_name": "Dick, angel",
+    "icons": [
+        {
+            "src": "/favicons/android-chrome-144x144.png?v=WGLOp0Pkn2",
+            "sizes": "144x144",
+            "type": "image/png"
+        }
+    ],
+    "theme_color": "#ffffff",
+    "background_color": "#ffffff",
+    "start_url": "http://dickangelgame.com",
+    "display": "standalone"
+}
